@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Rohit Jadav
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Rohit is a pragmatic and experienced information security consultant with 9 years of hands-on expertise in various domains including cloud security, container security, and web/mobile application security.
 
 #interests:
 #- Artificial Intelligence
@@ -47,10 +47,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/saucyvip3r
+  - icon: Linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/rohitjadav/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +66,12 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rohit is a highly experienced and pragmatic security consultant with an extensive background in the information security domain. He has been working in this field for the past 9 years and has gained progressive hands-on experience in various aspects of cyber security. Rohit has a deep understanding of the latest trends and technologies in the industry and is well-versed in the best practices and methodologies of information security.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+One of Rohit's core areas of expertise is cloud security, where he has helped organizations of all sizes implement secure cloud environments. He has extensive experience with cloud security services offered by AWS, Azure, and Google Cloud, and is well-versed in cloud-native security tools and open-source solutions. Rohit has a comprehensive understanding of container security, especially Kubernetes, and has helped organizations secure their containerized applications.
+
+In addition to cloud security, Rohit has vast experience in web and mobile application security, security architecture review, external and internal network penetration testing, and secure code review. He has developed and updated methodologies for various types of security assessments and is adept at proactively identifying technical and architectural risks.
+
+Rohit is a reliable and results-driven professional who has a strong track record in consulting, relationship management, and key account management. He has a pragmatic approach to problem-solving and can communicate effectively with technical and non-technical stakeholders. Rohit is committed to continuous learning and is always up-to-date with the latest trends and best practices in the information security domain.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
