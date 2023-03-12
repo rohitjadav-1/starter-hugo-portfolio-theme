@@ -22,19 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Team Lead - Cloud Security
+    company: Appsecco
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Bengaluru, India
+    date_start: '2021-01-12'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Lead a team of cloud security professionals to assess and review cloud network configurations for AWS, Azure, and Google Cloud, identifying risks, and making recommendations for remediation.
+        Solve cloud-based security challenges using cloud-native services, open-source tools, and best practices.
+        Ensure that adequate security controls are in place throughout the cloud platform, services, and solutions.
 
   - title: Professor of Semiconductor Physics
     company: University X
